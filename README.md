@@ -27,6 +27,13 @@ Run the process killer with rofi:
 rofi -show-icons -modi "processes:rofi-process-killer.sh" -show processes
 ```
 
+### Screenshot
+<div style="float:left">
+<img alt=rofi-process-killer src=https://raw.githubusercontent.com/madhur/rofi-process-killer/main/rofi-process-killer.png />
+</div>
+
+<div style="float:clear"></div>
+
 ### Enhanced Usage with Full Command Line Display
 Save the custom theme (from the theme artifact) to `~/.config/rofi/process-killer.rasi`, then run:
 ```bash
