@@ -1,4 +1,3 @@
-# Maintainer: John Doe <john@example.com>
 pkgname=rofi-process-killer
 pkgver=1.0.0
 pkgrel=1
