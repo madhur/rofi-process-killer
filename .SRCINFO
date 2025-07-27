@@ -12,3 +12,4 @@ pkgbase = rofi-process-killer
 	sha256sums = a1b2c3d4e5f6...
 
 pkgname = rofi-process-killer
+
