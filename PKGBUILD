@@ -4,12 +4,12 @@ pkgver=1.0.0
 pkgrel=1
 pkgdesc="A rofi module for listing and killing Linux processes with full command line display"
 arch=('any')
-url="https://github.com/MADHUR/rofi-process-killer"
+url="https://github.com/madhur/rofi-process-killer"
 license=('MIT')
 depends=('rofi' 'procps-ng')
 optdepends=('libnotify: desktop notifications for kill status')
 source=("$pkgname-$pkgver.tar.gz::$url/archive/v$pkgver.tar.gz")
-sha256sums=('a1b2c3d4e5f6...')  # Your actual checksum
+sha256sums=('5a590cef291728f774c9f77df9b7136c5b2683999dd496e82c0aebf0cd0b0453')  # Your actual checksum
 
 package() {
     cd "$srcdir/$pkgname-$pkgver"
