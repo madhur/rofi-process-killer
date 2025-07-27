@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Rofi Process Killer
+Comment=Kill processes using rofi interface
+Exec=rofi -modi "processes:rofi-process-killer" -show processes -theme /usr/share/rofi/themes/process-killer.rasi
+Icon=system-monitor
+Terminal=false
+Type=Application
+Categories=System;Monitor;
+Keywords=process;kill;rofi;system;
